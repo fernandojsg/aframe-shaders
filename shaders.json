@@ -3,5 +3,15 @@
     "author": "Diego Marcos",
     "description": "Test Shader",
     "url": "https://rawgit.com/dmarcos/test-shader/7ea385df1192585fc295043735c302bd1521ca94/test.js"
-  }
+  },
+  "noise" : {
+    "author": "Diego Marcos",
+    "description": "Vertex shader distortion",
+    "url": "https://rawgit.com/aframevr/aframe/50a07cac9cd2f764b9ff4cd0a5bb20e408f8f4d6/examples/test-shaders/shaders/noise.js"
+  },
+  "sky" : {
+    "author": "Diego Marcos",
+    "description": "Sky & sun shader",
+    "url": "https://rawgit.com/aframevr/aframe/50a07cac9cd2f764b9ff4cd0a5bb20e408f8f4d6/examples/test-shaders/shaders/sky.js"
+  }    
 }
